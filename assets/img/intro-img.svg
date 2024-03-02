@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="813c2686-e70f-4fb0-bf6b-a2eb7b1db384"
+   data-name="Layer 1"
+   width="1121.04"
+   height="851.8"
+   viewBox="0 0 1121.04 851.8"
+   version="1.1"
+   sodipodi:docname="intro-img.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata1125">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>interaction design</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview1123"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="0.97440715"
+     inkscape:cx="560.52002"
+     inkscape:cy="425.89999"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="813c2686-e70f-4fb0-bf6b-a2eb7b1db384" />
+  <defs
+     id="defs10">
+    <linearGradient
+       id="a631a87a-781e-44c6-95a9-52fd0c67a2fa"
+       x1="590.32"
+       y1="444.05"
+       x2="590.32"
+       y2="24.1"
+       gradientTransform="matrix(-1, 0, 0, 1, 852.2, 0)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="gray"
+         stop-opacity="0.25"
+         id="stop2" />
+      <stop
+         offset="0.54"
+         stop-color="gray"
+         stop-opacity="0.12"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="gray"
+         stop-opacity="0.1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="a15ea5fa-8dd7-4ce2-ac3d-c62a3c4696f0"
+       x1="493.3"
+       y1="875.74"
+       x2="493.3"
+       y2="319.35"
+       gradientTransform="matrix(1, 0, 0, 1, 0, 0)"
+       xlink:href="#a631a87a-781e-44c6-95a9-52fd0c67a2fa" />
+  </defs>
+  <title
+     id="title12">interaction design</title>
+</svg>
